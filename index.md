@@ -5,7 +5,9 @@
 ### Academic Projects 
 
 [Music Genre Prediction](https://github.com/akshay33/MIRSystem)
-
+- Created a system that predicts Music Genre using the FMA 2017 medium dataset.
+- Implemented different algorithms for comparative analysis where Neural Networks(MLP) performed better than others and giving accuracy of 59% which was more than the benchmarks (58%).
+- Implemented SMOTE algorithm to create synthetic data samples which improved accuracy to 63%.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
