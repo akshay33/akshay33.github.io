@@ -10,18 +10,22 @@
 - Implemented SMOTE algorithm to create synthetic data samples which improved accuracy to 63%.
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Learning to Drive using Inverse Reinforcement Learning](https://akshay33.github.io/)
+- Created a simulated driving domain using v-rep platform.
+- Implemented Maximum Entropy Inverse Reinforcement Learning algorithm and tested in the simulated domain
+with small and large state space where it was able to drive accurately.
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Deep Reinforcement Learning agent for Pacman](https://akshay33.github.io/)
+- Developed and Integrated Deep Reinforcement learning agent with existing Pacman Agent Framework and
+obtained 90% winning rate.
+- Deep Neural Network was created using Keras and Image processing was done using PIL and OpenCV in Python 2.7.
 
 ---
 
 ### Work Experience 
 
-- [Project 1 Title](http://example.com/)
+[Graduate Teaching Assistant]
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
