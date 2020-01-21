@@ -2,7 +2,8 @@ title: Akshay Sharma # your name (or website title) here
 logo: "/images/AkshaySharma.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   MS in CS, <br> 
-  Arizona State University, Tempe 
+  Arizona State University, Tempe
+  <br>
   <a href="https://www.linkedin.com/in/akshaysharma33/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
