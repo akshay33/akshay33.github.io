@@ -4,7 +4,7 @@
 
 ### Academic Projects 
 
-Music Genre Prediction (/sample_page)
+[Music Genre Prediction](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
