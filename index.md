@@ -25,7 +25,10 @@ obtained 90% winning rate.
 
 ### Work Experience 
 
-#### Graduate Teaching Assistant
+#### Graduate Teaching Assistant              Arizona State University                  Jan 2019 - Dec 2019
+- TA for undergraduate course, Logic in Computer Science(CSE 259) (Fall 2019)
+- Grader for a seminar course (CSE 591 - Human Aware Robotics) (Spring 2019)
+- Created and graded coursework, held recitation and office hours sessions for addressing student queries.
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
