@@ -4,7 +4,7 @@
 
 ### Academic Projects 
 
-[Music Genre Prediction]
+[Music Genre Prediction](https://github.com/akshay33/MIRSystem)
 
 
 ---
