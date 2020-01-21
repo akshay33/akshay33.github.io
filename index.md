@@ -31,12 +31,16 @@ obtained 90% winning rate.
 - Grader for a seminar course (CSE 591 - Human Aware Robotics) (Spring 2019)
 - Created and graded coursework, held recitation and office hours sessions for addressing student queries.
 
+---
+
 #### Graduate Research Assistant, Arizona State University
 (May 2019 - Aug 2019)
 - Worked on a Research Project Progressive Explanation Generation which is technique to decrease cognitive load on
 Human while Human’s interaction with the robot.
 - Formulated and developed an Inverse Reinforcement Learning algorithm and tested with Human Subjects.
 - Used Python, PDDL and Fast Downward planner.
+
+---
 
 #### Systems Engineer, Infosys Ltd. 
 (Aug 2017 – Apr 2018)
