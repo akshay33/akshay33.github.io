@@ -2,9 +2,9 @@
 
 ---
 
-### Academic Projects 
+### Category Name 1 
 
-[Project 1 Title](/sample_page)
+Music Genre Prediction (/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Work Experience
+### Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
