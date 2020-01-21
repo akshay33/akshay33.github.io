@@ -25,7 +25,7 @@ obtained 90% winning rate.
 
 ### Work Experience 
 
-# Graduate Teaching Assistant
+#### Graduate Teaching Assistant
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
